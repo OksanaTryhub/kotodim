@@ -77,6 +77,7 @@ img {
 }
 .header-nav a:hover {
   color: #f07f2e;
+  text-decoration: underline;
 }
 
 /*=====HERO=====*/
